@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/hotel-booking-management/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/hotel-booking-management/static/js/main.bf15cfac.chunk.js",
+    "main.js.map": "/hotel-booking-management/static/js/main.bf15cfac.chunk.js.map",
+    "runtime-main.js": "/hotel-booking-management/static/js/runtime-main.30244544.js",
+    "runtime-main.js.map": "/hotel-booking-management/static/js/runtime-main.30244544.js.map",
+    "static/js/2.16a965e4.chunk.js": "/hotel-booking-management/static/js/2.16a965e4.chunk.js",
+    "static/js/2.16a965e4.chunk.js.map": "/hotel-booking-management/static/js/2.16a965e4.chunk.js.map",
+    "static/js/3.219b0445.chunk.js": "/hotel-booking-management/static/js/3.219b0445.chunk.js",
+    "static/js/3.219b0445.chunk.js.map": "/hotel-booking-management/static/js/3.219b0445.chunk.js.map",
+    "static/js/4.6f98b353.chunk.js": "/hotel-booking-management/static/js/4.6f98b353.chunk.js",
+    "static/js/4.6f98b353.chunk.js.map": "/hotel-booking-management/static/js/4.6f98b353.chunk.js.map",
+    "static/js/5.72db422c.chunk.js": "/hotel-booking-management/static/js/5.72db422c.chunk.js",
+    "static/js/5.72db422c.chunk.js.map": "/hotel-booking-management/static/js/5.72db422c.chunk.js.map",
+    "static/js/6.b87ed47e.chunk.js": "/hotel-booking-management/static/js/6.b87ed47e.chunk.js",
+    "static/js/6.b87ed47e.chunk.js.map": "/hotel-booking-management/static/js/6.b87ed47e.chunk.js.map",
+    "index.html": "/hotel-booking-management/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/hotel-booking-management/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.16a965e4.chunk.js.LICENSE.txt": "/hotel-booking-management/static/js/2.16a965e4.chunk.js.LICENSE.txt",
+    "static/js/3.219b0445.chunk.js.LICENSE.txt": "/hotel-booking-management/static/js/3.219b0445.chunk.js.LICENSE.txt",
+    "static/js/4.6f98b353.chunk.js.LICENSE.txt": "/hotel-booking-management/static/js/4.6f98b353.chunk.js.LICENSE.txt",
+    "static/js/5.72db422c.chunk.js.LICENSE.txt": "/hotel-booking-management/static/js/5.72db422c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30244544.js",
+    "static/js/2.16a965e4.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.bf15cfac.chunk.js"
+  ]
+}
